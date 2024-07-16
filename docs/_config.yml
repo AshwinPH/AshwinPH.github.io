@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Ashwin Hingwe
+email: hingwe.ashwin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I'm Ashwin, a mechanical engineer specializing in robotics.
+  I'm passionate about building mechanical and electromechanical devices, whether they be simple, complex, useful, or just plain cool!
+  My projects are meant either to help me learn, or to provide a useful design to the open-source hardware community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
